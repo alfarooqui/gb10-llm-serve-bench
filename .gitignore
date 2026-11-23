@@ -1,0 +1,8 @@
+results/*/
+!results/.gitkeep
+results/comparison.md
+logs/
+__pycache__/
+*.pyc
+.env
+results/container.txt
